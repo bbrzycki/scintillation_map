@@ -1,18 +1,18 @@
 LISM path lengths (kpc) with weighting hierarchy LHB:LOOPI:LSB:LDR
                 LHB     LoopI     LSB      LDR
-  Length       0.080    0.000    0.150    0.000
-  Mean Dist.   0.040    0.000    0.155    0.000
+  Length       0.080    0.010    0.000    2.020
+  Mean Dist.   0.040    0.085    0.000    1.100
 Fractional contributions to DM:
   outer   inner    arms     gc    lism    clumps  voids       DM
-  0.893   0.000   0.011   0.000   0.096   0.000   0.000     29.027
+  0.772   0.000   0.156   0.000   0.073   0.000   0.000    341.479
 Fractional contributions to SM:
   outer   inner    arms     gc    lism    clumps  voids       SM
-  0.976   0.000   0.020   0.000   0.004   0.000   0.000  0.171E-03
+  0.211   0.000   0.784   0.000   0.005   0.000   0.000  0.103E-01
 Path lengths through spiral arms:
 Arm      Mean Distance       Path Length    (arm=0 => interarm)
- 0         76.185             147.651
- 1          0.000               0.000
+ 0         80.728             138.566
+ 1          9.255               4.370
  2          0.000               0.000
  3          0.000               0.000
- 4          0.000               0.000
- 5          1.175               2.350
+ 4          5.085               3.970
+ 5          1.550               3.100
