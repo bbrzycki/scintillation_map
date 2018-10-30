@@ -20,7 +20,7 @@ if($nargs == 5) {
    $FIELD = uc($field);
 }
 #print "$field $FIELD\n";
-$bindir = "./NE2001/bin.NE2001/";
+$bindir = "./NE2001/bin.NE2001";
 open(TEMP02, "$bindir/NE2001 $l $b  $DMD  $ndir | ") || die "Couldn't run NE2001: $!\n";
 while (<TEMP02>) {
 	if ($field eq "ALL" || $field eq "all") {print};
